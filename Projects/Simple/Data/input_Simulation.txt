@@ -1,0 +1,46 @@
+Name of output file
+Data/ber.txt
+Number of frames
+1000
+Upsampling factor
+4
+---------- Frame structure ---------------------
+Header length (H)
+10
+Number of data sections in a frame (N)
+20
+Data Length (D)
+100
+Pilot length (P)
+10
+---------- TX   ---------------------
+QAM modulation efficiency
+2
+SRRC filter roll-off
+0.2
+---------- Channel structure ---------------------
+Eb/N0 [dB]
+0
+Normalized Frequency offset
+1e-2
+Amplitude fluctuations normalized frequency
+1e-4
+Amplitude PP fluctuations
+0.0
+---------- RX    ---------------------
+AGC bandwidth
+1e-5
+Observation window of timing
+1000
+Updating step of frequency estimator [dB]
+0.05
+Number of coherent sums (nc)
+1
+Updating step of Equalizer (alpha)
+1e-2
+Updating step of PLL (alphap)
+1e-1
+Weight of decision aided error for Equalizer
+0.5
+Weight of decision aided error for PLL
+0.5

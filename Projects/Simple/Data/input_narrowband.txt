@@ -1,0 +1,21 @@
+Name output file
+Data/BER.txt
+Frame size (symbols)
+1000
+Eb/N0 [dB]
+40
+Number of modulation bits
+2
+SRRC roll-off
+0.25
+Length of filters
+10
+Number of samples per symbol
+6
+Normalized Frequency offset (nuf)
+0
+Amplitude fluctuations frequency (nua)
+.01
+Amplitude PP fluctuations (A)
+0.
+
